@@ -1,0 +1,40 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.form input{
+    width: 60vw;
+    height: 60px;
+    margin: 10px;
+    margin: 10px;
+    font-size: 25px;
+}
+
+.app{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Montserrat', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.card{
+    width:500px;
+    height: 170px;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+h1{
+    font-weight: 400;
+}
+
+#updateInput {
+    width: 100px;
+    height: 30px;
+    margin-bottom: 10px;
+}
